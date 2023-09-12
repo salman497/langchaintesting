@@ -1,4 +1,4 @@
-import { run } from "./few_shot";
+import { run } from "./examples/few_shot";
 
 console.log("----------------Executing------------------");
 run().catch(error => {
