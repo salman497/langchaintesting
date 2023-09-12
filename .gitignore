@@ -1,0 +1,14 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore TypeScript build output
+dist/
+
+# Ignore temporary files
+*.log
+*.cache
+*.tmp
+*.swp

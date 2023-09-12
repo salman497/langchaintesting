@@ -1,0 +1,16 @@
+{
+  "name": "ts-console-app",
+  "version": "1.0.0",
+  "description": "A simple TypeScript console app",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "langchain": "0.0.146"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2",
+    "ts-node": "^10.2.1"
+  }
+}
